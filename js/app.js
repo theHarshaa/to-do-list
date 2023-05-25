@@ -124,21 +124,3 @@ list.addEventListener("click", function(event){
     // add item to localstorage ( this code must be added where the LIST array is updated)
     localStorage.setItem("TODO", JSON.stringify(LIST));
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
