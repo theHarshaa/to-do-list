@@ -1,4 +1,3 @@
-/* ------------ youtube.com/CodeExplained ------------ */
 body{
     padding: 0;
     margin: 0;
@@ -6,14 +5,12 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* ------------ container ------------ */
 .container{
     padding:10px;
     width:380px;
     margin:0 auto;
 }
 
-/* ------------ header ------------ */
 .header{
     width: 380px;
     height:200px;
@@ -48,7 +45,6 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* ------------ content ------------ */
 .content{
     width:380px;
     height: 350px;
@@ -110,7 +106,6 @@ body{
     color:#af0000;
     cursor: pointer;
 }
-/* ------------ add item ------------ */
 .add-to-do{
     position: relative;
     width: 360px;
@@ -155,31 +150,3 @@ body{
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
